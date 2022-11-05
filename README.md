@@ -1,4 +1,4 @@
-# Trilha JS Developer - Pokedex
-  Este projeto se trata da criação de uma pokédex a partir do consumo da Api "pokéApi"; O desenvolvimento teve início pela estrutura Html e css, depois a criação da rota usando a função nativa fetch do javaScript. 
+# javaScript development trail - pokedex
+  This project is about the creation of a pokédex from the consumption of the Api "pokéApi"; The development started with the Html and css structure, then the route creation using the native javaScript fetch function.
     <bR>
----Espero fazer novas edições-----
+--- -----
